@@ -8,7 +8,8 @@ description: >-
   collaborative research, education, and training in the advancement of clinical
   and translational research within the Great Plains IDeA-CTR network.
 tags:
-  - ''
+  - IDeA-CTR
+  - RITO
 ---
 ## Our Services
 
@@ -26,6 +27,12 @@ Working with the Center for Collaboration on Research Design and Analysis (CCORD
 
 For a complete view and description of all CCORDA services, please [click here](https://www.unmc.edu/publichealth/centers/ccorda/scope.html) 
 
+## Table Test
+ID | Content
+---|---
+0|Test 1
+1|Test 2
+
 ## Educational Opportunities
 
 **College of Public Health (COPH) Academic Programs**
@@ -39,9 +46,9 @@ Our courses prepare students for research roles and settings, with programs that
 ## Seminars and Workshops
 
 > Working with a Biostatistician: How should you prepare?  Click here to view a 50-minute video about what you need to know when preparing to with a biostatistician. 
->
+
 > COPH Grand Rounds Click here to access news and announcements about Grand Rounds and seminars in the College of Public Health. 
->
+
 > E-Modules on Biostatistics Click here to access an interactive biostatistics instructional manual prepared by experts at the University of Nebraska Medical Center. 
 
 ## Population Based Health Indicators E-Modules
