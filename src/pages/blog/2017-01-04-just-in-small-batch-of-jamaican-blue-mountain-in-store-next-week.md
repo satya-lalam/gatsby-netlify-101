@@ -27,7 +27,7 @@ Meet with our experts for consultation and services with biostatistical analysis
 
 Working with the Center for Collaboration on Research Design and Analysis (CCORDA), we are able to provide the following consulting services: research design expertise; data acquisition and management expertise; and analysis and reporting. 
 
-For a complete view and description of all CCORDA services, please click here 
+For a complete view and description of all CCORDA services, please [click here](https://www.unmc.edu/publichealth/centers/ccorda/scope.html) 
 
 ## Educational Opportunities
 
