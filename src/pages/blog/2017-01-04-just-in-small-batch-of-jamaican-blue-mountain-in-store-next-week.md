@@ -8,10 +8,7 @@ description: >-
   collaborative research, education, and training in the advancement of clinical
   and translational research within the Great Plains IDeA-CTR network.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ''
 ---
 ## Our Services
 
