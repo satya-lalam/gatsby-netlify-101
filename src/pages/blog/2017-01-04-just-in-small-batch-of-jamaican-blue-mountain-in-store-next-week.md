@@ -28,12 +28,15 @@ Working with the Center for Collaboration on Research Design and Analysis (CCORD
 For a complete view and description of all CCORDA services, please [click here](https://www.unmc.edu/publichealth/centers/ccorda/scope.html) 
 
 ## Table Test
-ID | Content
----|---
-0|Test 1
-1|Test 2
+
+| ID  | Content |
+| --- | ------- |
+| 0   | Test 1  |
+| 1   | Test 2  |
 
 ## Educational Opportunities
+
+![Test Image](/img/blog_post_sep_2017.png)
 
 **College of Public Health (COPH) Academic Programs**
 
@@ -46,9 +49,9 @@ Our courses prepare students for research roles and settings, with programs that
 ## Seminars and Workshops
 
 > Working with a Biostatistician: How should you prepare?  Click here to view a 50-minute video about what you need to know when preparing to with a biostatistician. 
-
+>
 > COPH Grand Rounds Click here to access news and announcements about Grand Rounds and seminars in the College of Public Health. 
-
+>
 > E-Modules on Biostatistics Click here to access an interactive biostatistics instructional manual prepared by experts at the University of Nebraska Medical Center. 
 
 ## Population Based Health Indicators E-Modules
@@ -71,6 +74,6 @@ Jane Meza, PhD\
 Co-Director, Biostatistics, Epidemiology and Research Design Core  \
 Bio
 
-## Contact and Scheduling Information 
+## Contact and Scheduling Information
 
 Contact us via the Center for Collaboration on Research Design and Analysis (CCORDA) by completing the form here: Request CCORDA service.
