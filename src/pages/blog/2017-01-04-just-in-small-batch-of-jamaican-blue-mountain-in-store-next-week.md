@@ -3,18 +3,16 @@ templateKey: blog-post
 title: 'Biostatistics, Epidemiology and Research Design Core'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Our Biostatistics, Epidemiology and Research Design Core provides critical
+  research design, epidemiological, and biostatistical expertise for
+  collaborative research, education, and training in the advancement of clinical
+  and translational research within the Great Plains IDeA-CTR network.
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
-# What We Do
-
-Our Biostatistics, Epidemiology and Research Design Core provides critical research design, epidemiological, and biostatistical expertise for collaborative research, education, and training in the advancement of clinical and translational research within the Great Plains IDeA-CTR network.
-
 ## Our Services
 
 Biostatistics, Epidemiology and Research Design Core Consulting
