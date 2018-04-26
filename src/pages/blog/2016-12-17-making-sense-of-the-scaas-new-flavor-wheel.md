@@ -13,8 +13,7 @@ description: >-
   focus on using established and new technologies to improve how translational
   science is handled
 tags:
-  - flavor
-  - tasting
+  - Cores
 ---
 ## Our Services
 
