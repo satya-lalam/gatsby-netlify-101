@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About US
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+The Great Plains is a vast, rural region with pockets of urban development. Some of our most vulnerable populations face geographic and social isolation lacking access to primary and specialized care in both rural and underserved urban areas. With generous funding from the National Institutes of Health (NIH) and a commitment to “together we are better”, the GP IDeA-CTR Network was formed to uphold the NIH's nationwide effort to improve the health of all Americans and to provide approaches to overcoming the issues endemic to our part of the country.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+We are one of 9 IDeA-CTR networks in the U.S. IDeA-CTR grants are offered to enhance competitive clinical and translational research programs and foster collaboration within and across IDeA institutions. This goal can be accomplished through combined resources, increased focus on local health concerns, and improved research infrastructure in states where NIH grant success is low and where rural and underserved communities may exist. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Our network of 9 academic and medical institutions located throughout Nebraska, South Dakota, North Dakota, and Kansas is committed to improving clinical and translational research and providing
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+* Innovative research partnerships within our institutions and our communities 
+* Pilot Grants and Scholar Awards for cutting-edge collaborative research
+* Sustainable and robust resources for conducting successful clinical and translational research
+* Collaborative outreach to underserved populations, and  
+* Excellent educational and faculty development opportunities
