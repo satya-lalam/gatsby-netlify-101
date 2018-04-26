@@ -1,72 +1,25 @@
 ---
 templateKey: blog-post
-title: 'Biostatistics, Epidemiology and Research Design Core'
+title: Administrative Core
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Our Biostatistics, Epidemiology and Research Design Core provides critical
-  research design, epidemiological, and biostatistical expertise for
-  collaborative research, education, and training in the advancement of clinical
-  and translational research within the Great Plains IDeA-CTR network.
+  The Administrative KCA is the heart of the IDeA-CTR program. We provide
+  exceptional leadership and coordinate the successful day-to-day operations
+  necessary to fulfill our shared vision: shaping a robust infrastructure for
+  advancing clinical and translational science in the Great Plains region.   
 tags:
   - Cores
 ---
-## Our Services
-
-Biostatistics, Epidemiology and Research Design Core Consulting
-
-Meet with our experts for consultation and services with biostatistical analysis and other quantitative sciences for Great Plains IDeA-CTR programs.
-
-* Consult and collaborate on study design, data acquisition, and data analysis.
-* Mentor biostatistics and epidemiology faculty to develop new methodologies and tools for the study of diseases of aging in rural and underserved urban populations.
-* Provide access to health data sets to follow indicators of health and diseases of aging. 
-* Educate and train IDeA-CTR Scholars on best strategies for study design and analysis.
-* Review the biostatistical plan of all IDeA-CTR scholar and pilot grant application.
-
-Working with the Center for Collaboration on Research Design and Analysis (CCORDA), we are able to provide the following consulting services: research design expertise; data acquisition and management expertise; and analysis and reporting. 
-
-For a complete view and description of all CCORDA services, please [click here](https://www.unmc.edu/publichealth/centers/ccorda/scope.html) 
+The Administrative KCA is the heart of the IDeA-CTR program. We provide exceptional leadership and coordinate the successful day-to-day operations necessary to fulfill our shared vision: shaping a robust infrastructure for advancing clinical and translational science in the Great Plains region.   
 
 
-## Educational Opportunities
 
-![Test Image](/img/blog_post_sep_2017.png)
+Our industrious [Steering Committee](https://test-gpctr.unmc.edu/about-us/steering-committe-kca-operations/) meets on a monthly basis to expertly oversee governance, policy, and procedural issues related to the management of all IDeA research and educational activities and services.  
 
-**College of Public Health (COPH) Academic Programs**
 
-Our courses prepare students for research roles and settings, with programs that emphasize understanding of theoretical issues and the application of disciplinary methods to the study of public health problems in settings such as academic institutions and research institutes. Academic degrees are offered and administered by each individual department and the University of Nebraska Graduate College. Click on the links below to learn more about specific offerings.
 
-* Educational programs 
-* Graduate Courses in Biostatistics 
-* Graduate Courses in Epidemiology 
+The Administrative KCA also oversees communications, budget management, committee organization and meetings, and the facilitation of innovative collaborations within our network and our communities. 
 
-## Seminars and Workshops
 
-> Working with a Biostatistician: How should you prepare?  Click here to view a 50-minute video about what you need to know when preparing to with a biostatistician. 
->
-> COPH Grand Rounds Click here to access news and announcements about Grand Rounds and seminars in the College of Public Health. 
->
-> E-Modules on Biostatistics Click here to access an interactive biostatistics instructional manual prepared by experts at the University of Nebraska Medical Center. 
 
-## Population Based Health Indicators E-Modules
-
-* Part 1: Defining and Distinguishing Between Population-Based and Clinical-Based Health Indicators
-* Part 2: Clinical Translational Research and Secondary Data
-* Part 3: Population-Based Health Indicators in CTR
-
-Leadership
-
-Fang Yu, PhD  \
-Director, Biostatistics, Epidemiology and Research Design Core  \
-Bio
-
-Shinobu Watanabe-Galloway, PhD\
-Co-Director, Biostatistics, Epidemiology and Research Design Core  \
-Bio
-
-Jane Meza, PhD\
-Co-Director, Biostatistics, Epidemiology and Research Design Core  \
-Bio
-
-## Contact and Scheduling Information
-
-Contact us via the Center for Collaboration on Research Design and Analysis (CCORDA) by completing the form here: Request CCORDA service.
+We value transparency and welcome input from all of our partners, community members, and program participants. Our [Tracking & Evaluation KCA](https://test-gpctr.unmc.edu/cores/tracking-evaluation-kca/) gathers and provides feedback that further informs ongoing improvement, and we routinely seek guidance from both [Internal](https://test-gpctr.unmc.edu/about-us/internal-advisory-committee/) and [External Advisory Committee](https://test-gpctr.unmc.edu/about-us/external-advisory-committee/)s to solve problems, revise goals, and realign resources as opportunities arise.
