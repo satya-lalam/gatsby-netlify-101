@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: satya-lalam/gatsby-netlify-101
 
 media_folder: static/img
 public_folder: /img
