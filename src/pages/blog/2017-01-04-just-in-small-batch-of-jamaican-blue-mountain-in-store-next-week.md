@@ -27,12 +27,6 @@ Working with the Center for Collaboration on Research Design and Analysis (CCORD
 
 For a complete view and description of all CCORDA services, please [click here](https://www.unmc.edu/publichealth/centers/ccorda/scope.html) 
 
-## Table Test
-
-| ID  | Content |
-| --- | ------- |
-| 0   | Test 1  |
-| 1   | Test 2  |
 
 ## Educational Opportunities
 
