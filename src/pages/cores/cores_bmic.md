@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Biomedical Informatics & Cyberinfrastructure Core
-date: 2016-12-17T15:04:10.000Z
+date: 2018-04-22T15:04:10.000Z
 description: >-
   Our Biomedical Informatics & Cyberinfrastructure KCA provides support
   services, develops cutting-edge tools, and offers a rich repository of

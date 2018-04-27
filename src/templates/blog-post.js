@@ -26,6 +26,7 @@ export const BlogPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
+            {/* tags
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -38,6 +39,7 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            */}
           </div>
         </div>
       </div>

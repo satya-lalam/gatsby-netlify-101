@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Administrative Core
-date: 2017-01-04T15:04:10.000Z
+date: 2018-04-21T15:04:10.000Z
 description: >-
   The Administrative KCA is the heart of the IDeA-CTR program. We provide
   exceptional leadership and coordinate the successful day-to-day operations

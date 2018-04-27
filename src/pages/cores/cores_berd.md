@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Biostatistics, Epidemiology and Research Design Core'
-date: 2017-01-04T15:04:10.000Z
+date: 2018-04-22T15:04:10.000Z
 description: >-
   Our Biostatistics, Epidemiology and Research Design Core provides critical
   research design, epidemiological, and biostatistical expertise for

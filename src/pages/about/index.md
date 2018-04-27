@@ -6,7 +6,10 @@ The Great Plains is a vast, rural region with pockets of urban development. Some
 
 We are one of 9 IDeA-CTR networks in the U.S. IDeA-CTR grants are offered to enhance competitive clinical and translational research programs and foster collaboration within and across IDeA institutions. This goal can be accomplished through combined resources, increased focus on local health concerns, and improved research infrastructure in states where NIH grant success is low and where rural and underserved communities may exist. 
 
-Our network of 9 academic and medical institutions located throughout Nebraska, South Dakota, North Dakota, and Kansas is committed to improving clinical and translational research and providing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iUe4XidlW0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+
+*Our network of 9 academic and medical institutions located throughout Nebraska, South Dakota, North Dakota, and Kansas is committed to improving clinical and translational research and providing*
 
 * Innovative research partnerships within our institutions and our communities 
 * Pilot Grants and Scholar Awards for cutting-edge collaborative research
