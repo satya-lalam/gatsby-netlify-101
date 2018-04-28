@@ -5,12 +5,14 @@ import github from '../img/github-icon.svg'
 import gpctr_logo from '../img/gpctr_logo.png'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent is-primary">
+  <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
+        <div className="logo-brand">IDeA CTR</div>
           <figure className="image">
-            <img src={gpctr_logo} alt="IDeA CTR" style={{ width: '180px'}} />
+            {/* <img src={gpctr_logo} alt="IDeA CTR" style={{ width: '378px', height: '75px'}} /> */}
+            
           </figure>
         </Link>
       </div>
