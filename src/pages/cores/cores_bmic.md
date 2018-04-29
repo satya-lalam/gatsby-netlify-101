@@ -17,7 +17,7 @@ tags:
 ---
 *For a more in-depth look at what we do, check out this video from February, 2017*
 
-<iframe width="650" height="395" src="https://hml.unmc.edu/player?autostart=n&fullscreen=y&width=640&height=385&videoId=5794&captions=n&chapterId=0" frameborder="0" scrolling="no"  allowfullscreen></iframe>
+<iframe width= "100%" height="360" src="https://hml.unmc.edu/player?autostart=n&fullscreen=y&width=640&height=385&videoId=5794&captions=n&chapterId=0" frameborder="0" scrolling="no"  allowfullscreen></iframe>
 
 ## Our Services
 
